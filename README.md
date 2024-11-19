@@ -1,7 +1,7 @@
 # ImprovedScratchAssay
 The Scratcher went through numerous iterations. The final form is in two pieces a handle that can be printed from any standard rigid resin. I used an Elegoo Mars Ultra 4 and 3DMaterials standard resin.
 
-The tips must be printed from 3D materials, including Superflex resin. This ensures that tissue-treated plates do not get large scratches to the coating, which makes it hard to image later. The Superflex resin is soft enough not to damage the plate but still remove cells.
+The tips must be printed from 3D materials, including Superflex resin. This ensures that tissue-treated plates do not get large scratches to the coating, which makes it hard to image later. The Superflex resin is soft enough not to damage the plate but still remove cells. They can be glued in place on the inserts on the handle but do not need to be. The holes are slightly oversized as fitting them exactly to the inserts caused cracking.
 
 Printing as one piece or using harder resins for the tips causes scratches on the bottom of the plate.
 
