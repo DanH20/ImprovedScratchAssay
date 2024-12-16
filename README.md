@@ -6,3 +6,5 @@ The tips must be printed from 3D materials, including Superflex resin. This ensu
 Printing as one piece or using harder resins for the tips causes scratches on the bottom of the plate.
 
 The lid is meant to be laser cut from acrylic, the current width is designed for the scratcher to have minimal side-to-side movement while still being able to scratch, the width can be adjusted to create a second lid for marking the back of the plate with a pin around the scratch. When I have done this I have sized it to be 1mm wider than the width of whatever pen I am using contact point with the lid. This ensures a 1mm marked lane with a 0.5mm scratch in the middle, allowing consistent visualization.
+
+The pin inserts for migration assay can be used with gels in order to create round voids in the gel to mimic a wound or create an area for migration. Can be used as opposed to cutting gels for migration assays. Simply place in the desired spot before crosslinking and remove after, gels generally adhere better to the insert when printed with normal filament, and remove in the shape if the insert.
